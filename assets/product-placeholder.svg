@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Imagen de producto pendiente</title>
+  <desc id="desc">Placeholder editorial para producto vintage.</desc>
+  <rect width="900" height="900" fill="#ede9e5"/>
+  <circle cx="690" cy="180" r="120" fill="#d8c8b8" opacity="0.75"/>
+  <path d="M140 720 C260 560, 360 650, 480 500 C590 360, 690 430, 780 280 L780 760 L140 760 Z" fill="#2d4238" opacity="0.92"/>
+  <path d="M160 180 H740 V720 H160 Z" fill="none" stroke="#0e1114" stroke-width="16" opacity="0.18"/>
+  <text x="450" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#0e1114">Griffin</text>
+  <text x="450" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#4a1c40">producto vintage</text>
+</svg>
